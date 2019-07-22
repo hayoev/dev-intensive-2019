@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Dev Intensive</string>
+    <string name="bender_image">Bender image</string>
 </resources>
